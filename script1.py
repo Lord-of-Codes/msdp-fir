@@ -19,18 +19,6 @@ stations = [
     "Lalgola Police Station",                 
     "Murshidabad Police Station", 
     "Nabagram Police Station",                 
-    "Ranitala Police Station",                
-    "Bharatpur Police Station", 
-    "Burwan Police Station",                  
-    "Kandi Police Station",                  
-    "Khargram Police Station",              
-    "Salar Police Station",                 
-    "Domkal Police Station",                 
-    "Islampur Police Station",                
-    "Jalangi Police Station",                 
-    "Raninagar Police Station", 
-    "Sagarpara Police Station", 
-    "Cyber Crime Police Station" 
     ]
 
 url = "http://mspdfir.co.in/view/index.php"
